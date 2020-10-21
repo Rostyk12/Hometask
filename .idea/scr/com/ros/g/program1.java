@@ -22,6 +22,7 @@ public class program1 {
         }
         else {
             System.out.println("Розв'язку немає");
+            System.out.print("123");
 
         }
 
